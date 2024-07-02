@@ -43,7 +43,6 @@ function App() {
               <input 
                 type="number" 
                 defaultValue={1}
-                min={1}
                 onChange={handleChange}
               />
             </div>
