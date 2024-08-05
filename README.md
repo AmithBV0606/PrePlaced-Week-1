@@ -1,3 +1,3 @@
-# ReactJs-Interview-Preparation
+# ReactJs-WebDevSimplified
 
-Preparing ReactJs topics and Machine coding task, as the interview for the Frontend Engineering is nearby.
+Learning ReactJs with the help of the tutorial created by WebDevSimplified.
